@@ -111,6 +111,7 @@ Material:
     - _SecondaryLobe: 1
     - _SecondarySpecularExponent: 0.5
     - _SecondarySpecularShift: 0.184
+    - _ShadowCull: 0
     - _ShadowStrength: 1
     - _Shadows: 0
     - _Smoothness: 1
@@ -144,3 +145,4 @@ Material:
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _SpecularTint: {r: 0.46226418, g: 0.45136172, b: 0.45136172, a: 1}
     - _SubsurfaceColor: {r: 1, g: 0.39999998, b: 0.24999997, a: 1}
+  m_BuildTextureStacks: []
